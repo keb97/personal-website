@@ -1,0 +1,74 @@
+h1 {font-size:60px;
+font-weight:300;
+}
+h2 {font-size:45px;
+font-weight:300;}
+h3 {font-size: 40px;
+font-weight:300;}
+p {font-size:25px;}
+img{  
+border-style: none;
+position:relative;
+}
+
+
+#header{
+color:#f2a14b;
+text-align:center;
+margin:20px;
+padding:10px;
+height:245px;
+}
+
+
+#about{
+width:45%;
+color:#000000;
+margin:20px;
+float:left;
+text-align:center;
+}
+
+#find{
+width:45%;
+color:#ded3af;
+margin:20px;
+float:right;
+text-align:center;
+}
+
+#twitter-pic {
+float:left;
+width:30%;
+}
+#linkedin-pic {
+float:left;
+width:30%;
+}
+#github-pic{
+    margin-left: auto;
+    margin-right: auto;
+width:40%;
+}
+
+#blog-pic{
+float:left;
+width:30%;
+}
+
+#about-text{
+float:right;
+}
+
+body{
+	margin:0;
+	padding:0;
+	font-family:Tahoma, Geneva, sans-serif
+}
+
+#footer{
+	color:#000000;
+	float:left;
+	width:97%;
+	margin:20px;
+}
